@@ -46,6 +46,7 @@ I love building practical tools that solve everyday problems.
 | Project | Description |
 |---------|-------------|
 | [AI-Screenshot-Renaming-and-Organization-System](https://github.com/Haruki-Hiranaka/AI-Screenshot-Renaming-and-Organization-System) | macOS automation that organizes screenshots into date-based folders and renames them semantically using Gemini Vision. |
+| [multi-llm-browser-agent](https://github.com/Haruki-Hiranaka/multi-llm-browser-agent) | A Chrome extension-based browsing agent supporting 6 major AI providers and 48 models with autonomous web operation capabilities. |
 
 ---
 
