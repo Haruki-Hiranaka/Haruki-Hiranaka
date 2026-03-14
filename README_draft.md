@@ -6,21 +6,21 @@
 
 <!-- ===== 1. GLITCH EFFECT HEADER ===== -->
 <!-- Animated glitch-style header using capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:00d4ff&height=220&section=header&text=HARUKI%20HIRANAKA&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=%3E_%20Software%20Engineer%20%7C%20AI%20%7C%20Web%20%7C%20Design&descSize=16&descColor=00d4ff&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff1a1a,100:cc0000&height=220&section=header&text=HARUKI%20HIRANAKA&fontSize=42&fontColor=ff1a1a&fontAlignY=35&desc=%3E_%20Software%20Engineer%20%7C%20AI%20%7C%20Web%20%7C%20Design&descSize=16&descColor=cc0000&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- ===== 2. TYPING ANIMATION SVG ===== -->
 <!-- Terminal-style typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=120&lines=%24+whoami;%3E+Haruki+Hiranaka+%7C+University+Student;%24+cat+mission.txt;%3E+Building+things+at+the+intersection+of+AI%2C+Web%2C+and+Design." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=120&lines=%24+whoami;%3E+Haruki+Hiranaka+%7C+University+Student;%24+cat+mission.txt;%3E+Building+things+at+the+intersection+of+AI%2C+Web%2C+and+Design." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges with cyberpunk colors -->
 <a href="https://github.com/Haruki-Hiranaka">
-  <img src="https://img.shields.io/github/followers/Haruki-Hiranaka?label=%F0%9F%94%97%20Follow&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41" alt="GitHub Follow" />
+  <img src="https://img.shields.io/github/followers/Haruki-Hiranaka?label=%F0%9F%94%97%20Follow&style=for-the-badge&color=ff1a1a&labelColor=0d1117&logo=github&logoColor=ff1a1a" alt="GitHub Follow" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Haruki-Hiranaka&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Haruki-Hiranaka&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 
 </div>
 
@@ -29,17 +29,23 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗    ║
-║  ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║    ║
-║  ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║    ║
-║  ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║    ║
-║  ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝    ║
-║   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝    ║
-║                    T E R M I N A L                                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║   ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██╗  ██╗██╗                                   ║
+║   ██║  ██║██╔══██╗██╔══██╗██║   ██║██║ ██╔╝██║                                   ║
+║   ███████║███████║██████╔╝██║   ██║█████╔╝ ██║                                   ║
+║   ██╔══██║██╔══██║██╔══██╗██║   ██║██╔═██╗ ██║                                   ║
+║   ██║  ██║██║  ██║██║  ██║╚██████╔╝██║  ██╗██║                                   ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝                                   ║
+║                                                                                  ║
+║   ██╗  ██╗██╗██████╗  █████╗ ███╗   ██╗ █████╗ ██╗  ██╗ █████╗                   ║
+║   ██║  ██║██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║ ██╔╝██╔══██╗                  ║
+║   ███████║██║██████╔╝███████║██╔██╗ ██║███████║█████╔╝ ███████║                  ║
+║   ██╔══██║██║██╔══██╗██╔══██║██║╚██╗██║██╔══██║██╔═██╗ ██╔══██║                  ║
+║   ██║  ██║██║██║  ██║██║  ██║██║ ╚████║██║  ██║██║  ██╗██║  ██║                  ║
+║   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                  ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -53,7 +59,7 @@
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const haruki = {
-  status:     "🟢 ONLINE",
+  status:     "🔴 ONLINE",
   role:       "Software Engineer | University Student",
   location:   "Japan 🇯🇵",
   interests:  ["Web Development", "AI/ML Tooling", "Competitive Programming"],
@@ -160,8 +166,8 @@ $ tree ~/projects/featured/ --info
 
 | Status | Project | Description |
 |:------:|---------|-------------|
-| 🟢 `ACTIVE` | [`AI-Screenshot-Renaming-and-Organization-System`](https://github.com/Haruki-Hiranaka/AI-Screenshot-Renaming-and-Organization-System) | macOS automation that organizes screenshots into date-based folders and renames them semantically using Gemini Vision. |
-| 🟢 `ACTIVE` | [`multi-llm-browser-agent`](https://github.com/Haruki-Hiranaka/multi-llm-browser-agent) | A Chrome extension-based browsing agent supporting 6 major AI providers and 48 models with autonomous web operation capabilities. |
+| 🔴 `ACTIVE` | [`AI-Screenshot-Renaming-and-Organization-System`](https://github.com/Haruki-Hiranaka/AI-Screenshot-Renaming-and-Organization-System) | macOS automation that organizes screenshots into date-based folders and renames them semantically using Gemini Vision. |
+| 🔴 `ACTIVE` | [`multi-llm-browser-agent`](https://github.com/Haruki-Hiranaka/multi-llm-browser-agent) | A Chrome extension-based browsing agent supporting 6 major AI providers and 48 models with autonomous web operation capabilities. |
 
 </div>
 
@@ -173,14 +179,14 @@ $ tree ~/projects/featured/ --info
 
 <div align="center">
 
-<img src="https://github-readme-stats-iota-seven-54.vercel.app/api?username=Haruki-Hiranaka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=00ff41&count_private=true&include_all_commits=true&ring_color=00ff41" height="170" />
-<img src="https://github-readme-stats-iota-seven-54.vercel.app/api/top-langs/?username=Haruki-Hiranaka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00d4ff&include_orgs=true" height="170" />
+<img src="https://github-readme-stats-iota-seven-54.vercel.app/api?username=Haruki-Hiranaka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff1a1a&icon_color=cc0000&text_color=ff1a1a&count_private=true&include_all_commits=true&ring_color=ff1a1a" height="170" />
+<img src="https://github-readme-stats-iota-seven-54.vercel.app/api/top-langs/?username=Haruki-Hiranaka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff1a1a&text_color=cc0000&include_orgs=true" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haruki-Hiranaka&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00d4ff&currStreakLabel=00ff41&sideLabels=00ff41&sideNums=00d4ff&currStreakNum=00d4ff&dates=555555" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haruki-Hiranaka&theme=dark&hide_border=true&background=0d1117&ring=ff1a1a&fire=cc0000&currStreakLabel=ff1a1a&sideLabels=ff1a1a&sideNums=cc0000&currStreakNum=cc0000&dates=444444" />
 
 </div>
 
@@ -192,7 +198,7 @@ $ tree ~/projects/featured/ --info
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haruki-Hiranaka&bg_color=0d1117&color=00ff41&line=00d4ff&point=00ff41&area=true&area_color=00ff41&hide_border=true&custom_title=%F0%9F%93%A1%20SIGNAL%20ACTIVITY%20%E2%80%94%20Contribution%20Frequency" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haruki-Hiranaka&bg_color=0d1117&color=ff1a1a&line=cc0000&point=ff1a1a&area=true&area_color=cc0000&hide_border=true&custom_title=%F0%9F%93%A1%20SIGNAL%20ACTIVITY%20%E2%80%94%20Contribution%20Frequency" width="100%" />
 
 </div>
 
@@ -216,65 +222,18 @@ $ tree ~/projects/featured/ --info
 
 </div>
 
----
-
-### `> wakatime --report weekly`
-
-<!-- ===== 6. WAKATIME-STYLE CODING STATS ===== -->
-
-```text
-📊 Weekly Development Breakdown (Terminal Log)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-TypeScript    ████████████████████░░░░░  78.5%  ██ 32h 15m
-Python        ████████░░░░░░░░░░░░░░░░░  12.3%  ██  5h 02m
-JavaScript    ███░░░░░░░░░░░░░░░░░░░░░░   4.8%  ██  1h 58m
-CSS           ██░░░░░░░░░░░░░░░░░░░░░░░   2.7%  ██  1h 06m
-Bash          █░░░░░░░░░░░░░░░░░░░░░░░░   1.7%  ██  0h 42m
-
-💻 Editor:    VS Code              🔥 Streak:  Active
-🖥️ OS:        macOS                ⏰ Avg/Day: ~5h 45m
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-> 💡 **Pro Tip:** Connect [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) to auto-update this section with real data!
-
----
-### `> cmatrix --rain`
-
-<!-- ===== 7. MATRIX RAIN STYLE DECORATION ===== -->
-
-<div align="center">
-
-```
-01001000 01100001 01110010 01110101 01101011 01101001
-  ║  ╠═══╗  ║  ║  ╠═══╗  ║  ║  ╠═══╗  ║  ║  ╠═══╗
-  ▓  ░▒▓█  ▓  ░  ▒▓█▓▒  ░  ▓  ░▒▓█  ▓  ░  ▒▓█▓▒░
-  0  1 0 1  0  1  1 0 1  0  0  1 0 1  0  1  1 0 1 0
-  ╚════╝    ╚════╝    ╚════╝    ╚════╝    ╚════╝
-  
-  ░▒▓ DECRYPTING... ▓▒░  ░▒▓ ACCESS GRANTED ▓▒░
-  
-  > WELCOME TO THE MATRIX, FELLOW DEVELOPER
-  > ALL SYSTEMS OPERATIONAL
-  > CONNECTION: ENCRYPTED 🔒
-```
-
-</div>
-
----
 
 <!-- ===== 8. ANIMATED FOOTER ===== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff41,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,50:ff1a1a,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" />
 
 <br/>
 
 <!-- Typing animation for footer -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%24+echo+%22Thanks+for+visiting.+Feel+free+to+explore+my+repos!%22;%24+exit+0+%E2%80%94+Session+terminated.+Goodbye.+%F0%9F%91%8B" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FF1A1A&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%24+echo+%22Thanks+for+visiting.+Feel+free+to+explore+my+repos!%22;%24+exit+0+%E2%80%94+Session+terminated.+Goodbye.+%F0%9F%91%8B" alt="Footer Typing" />
 </a>
 
 ```
