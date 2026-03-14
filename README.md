@@ -6,7 +6,7 @@
 
 <!-- ===== 1. GLITCH EFFECT HEADER ===== -->
 <!-- Animated glitch-style header using capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff1a1a,100:cc0000&height=220&section=header&text=HARUKI%20HIRANAKA&fontSize=42&fontColor=ff1a1a&fontAlignY=35&desc=%3E_%20Software%20Engineer%20%7C%20AI%20%7C%20Web%20%7C%20Design&descSize=16&descColor=cc0000&descAlignY=55&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff1a1a,100:cc0000&height=220&section=header&text=HARUKI%20HIRANAKA&fontSize=42&fontColor=0d1117&fontAlignY=35&desc=%3E_%20Software%20Engineer%20%7C%20AI%20%7C%20Web%20%7C%20Design&descSize=16&descColor=0d1117&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- ===== 2. TYPING ANIMATION SVG ===== -->
 <!-- Terminal-style typing animation -->
